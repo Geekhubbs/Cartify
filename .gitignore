@@ -1,0 +1,17 @@
+# Master Gitignore
+
+# Dependencies
+**/node_modules/
+
+# Environment Variables
+**/.env
+**/.env.*
+
+# Build Artifacts
+**/dist/
+**/build/
+
+# OS / Editors
+.DS_Store
+.vscode/
+.idea/
